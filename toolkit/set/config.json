@@ -1,15 +1,15 @@
 {
-  "owner": ["62831xxxxxxxx"],
-  "botname": "(Experimental) -▪︎ Bella-AI",
-  "botfullname": "Experimental-Bell",
-  "botnickname": "bella",
-  "ownername": "rifza",
+  "owner": ["6283849469400"],
+  "botname": "(epicbot) -▪︎ epic-AI",
+  "botfullname": "epicbot-Bell",
+  "botnickname": "epicbot",
+  "ownername": "manusia-tamvan",
   "locale": "id",
   "cfg": {
     "public": true,
     "ai_interactive": {
       "group": false,
-      "private": true,
+      "private": false,
       "energy": false,
       "partResponse": true
     },
@@ -18,16 +18,16 @@
     "autoreadgc": true,
     "welcome": "linkpreview",
     "first": {
-      "energy": 200,
+      "energy": 250,
       "flow": 1,
       "coins": 1,
-      "chargeRate": 0.003,
-      "chargingSpeed": 1000,
-      "maxCharge": 200,
+      "chargeRate": 0.010,
+      "chargingSpeed": 1200,
+      "maxCharge": 300,
       "trialPrem": {
         "energy": 1500,
         "chargeRate": 0.1,
-        "maxCharge": 850,
+        "maxCharge": 950,
         "time": "1 hari"
       },
       "autoai": {
@@ -103,8 +103,8 @@
     "antitagowner": true,
     "keyChecker": false,
     "gcurl": [
-      "https://chat.whatsapp.com/EKfOaI6O6iQB3kGut5ajuM",
-      "https://chat.whatsapp.com/JLQVgObv8No5jNMIr38rc2"
+      "https://chat.whatsapp.com/IvFxu3O1uwP5WPAe2VdwK1",
+      "https://chat.whatsapp.com/IvFxu3O1uwP5WPAe2VdwK1"
     ],
     "rpg": {
       "flow": 1,
