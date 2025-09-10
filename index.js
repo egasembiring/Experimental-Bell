@@ -202,3 +202,4 @@ launch();
 process.on('uncaughtException', (e) => {
   console.error(e);
 });
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
